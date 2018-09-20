@@ -1,5 +1,5 @@
 
-# 小说分类
+# 提交接口
 ```
 url: api.zhuishushenqi.com/cats/lv2/statistics      
 method: GET
